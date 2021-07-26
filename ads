@@ -12,7 +12,7 @@
 
 "title":"Update Available!",
 "about":"Please update the app to watch new and More Videos",
-"update":"com.master.apyarvideos",
+"update":"com.myanmar.thinekarapyarkar",
 "version":1
 
 }
