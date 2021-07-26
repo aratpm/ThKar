@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/ThKar/",
+"linkone":"https://www.google.com/",
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-8335928231955570~7136992795",
