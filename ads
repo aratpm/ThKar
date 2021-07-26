@@ -2,11 +2,11 @@
 "linkone":"https://aratpm.github.io/ThKar/",
 "linktwo":"https://www.google.com/",
 
-"appId":"ca-app-pub-1179025313038187~9573318981",
-"banner":"ca-app-pub-1179025313038187/3481912721",
-"interstial":"ca-app-pub-1179025313038187/6564012260",
-"AppOpen":"ca-app-pub-1179025313038187/4272250218",
-"linkbackup":"https://aratpm.github.io/apyvi/",
+"appId":"ca-app-pub-8335928231955570~7136992795",
+"banner":"ca-app-pub-8335928231955570/7759809320",
+"interstial":"ca-app-pub-8335928231955570/5133645984",
+"AppOpen":"ca-app-pub-8335928231955570/7568237636",
+"linkbackup":"https://aratpm.github.io/ThKar/",
 
 
 
