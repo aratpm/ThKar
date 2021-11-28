@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
+"linkone":"https://app.apyar.mobi/?",
 "linktwo":"https://images.google.com/",
 
 "appId":"NOca-app-pub-8335928231955570~7136992795",
