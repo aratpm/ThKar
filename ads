@@ -1,6 +1,6 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
-"linktwo":"https://images.google.com/",
+"linkone":"https://images.google.com/",
+"linktwo":"https://aratpm.github.io/apykrlkrakrnvpn/",
 
 "appId":"NOca-app-pub-8335928231955570~7136992795",
 "banner":"NOca-app-pub-8335928231955570/7759809320",
