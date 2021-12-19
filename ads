@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/repa/",
+"linkone":"https://aratpm.github.io/apykrlkrakrnvpn/",
 "linktwo":"https://aratpm.github.io/apykrlkrakrnvpn/",
 
 
